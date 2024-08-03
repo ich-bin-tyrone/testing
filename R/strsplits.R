@@ -11,5 +11,5 @@
 #' strsplit1(x, ".")
 #'
 strsplit1 <- function(x){
-  x+5
+  x+2
 }
