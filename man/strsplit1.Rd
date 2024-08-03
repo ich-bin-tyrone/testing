@@ -4,7 +4,7 @@
 \alias{strsplit1}
 \title{Split a string}
 \usage{
-strsplit1(x, split)
+strsplit1(x)
 }
 \arguments{
 \item{x}{string data with comma}
@@ -19,6 +19,6 @@ Split a string
 }
 \examples{
 x <- "alpha,beta,charlie,delta"
-strsplit1(x, ",")
+strsplit1(x, ".")
 
 }
