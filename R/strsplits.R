@@ -25,5 +25,5 @@ strsplit1 <- function(x){
 #' @examples
 #' new_func(1,2)
 new_func <- function(x, y){
-  y+x^3
+  y+x^2
 }
